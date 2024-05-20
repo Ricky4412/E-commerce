@@ -27,8 +27,17 @@ const Footer = () => {
             <li>Privacy policy</li>
           </ul>
         </div>
-        <div className="footer-content-right"></div>
+        <div className="footer-content-right">
+          <h2>GET IN TOUCH</h2>
+          <ul>
+            <li>+233-203-817-131</li>
+            <li>+233-200-061-731</li>
+            <li>Info@glovo_del.com</li>
+          </ul>
+        </div>
       </div>
+      <hr />
+      <p className="footer-copyright">Copyright 2024 @Glovo_del.com - All Right Reserved.</p>
     </div>
   );
 };
